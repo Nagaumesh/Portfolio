@@ -34,5 +34,9 @@
   {
     "title": "C/C++",
     "imageSrc": "skills/cp.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.jpg"
   }
 ]
