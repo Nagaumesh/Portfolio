@@ -12,7 +12,7 @@ export const Hero = () => {
         "I expertise in frontend development, data science, and Java problem-solving.
         Currently seeking internship opportunities to further enhance my skills
         </p>
-        <a href="mailto:umesh.kamisetty@email.com" className={styles.contactBtn}>
+        <a href="mailto:umesh.kamisetty@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
