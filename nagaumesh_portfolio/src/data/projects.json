@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/Portfolio.gif",
+    "description": " Developing and deploying a interactive portfolio website ",
+    "skills": ["HTML", "CSS", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": " Facial Recognition and Database Integration",
+    "imageSrc": "projects/facerecognition.gif",
+    "description": " Hands-on exploration featuring through Python and Firebase.",
+    "skills": ["Python", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

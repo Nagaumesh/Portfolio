@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python2.jpg"
+  },
+ 
+  {
+    "title": "R",
+    "imageSrc": "skills/R.png"
+  },
+  
+  {
+    "title": "Leetcode",
+    "imageSrc": "skills/leetcode.png"
+  },
+
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  
+  {
+    "title": "C/C++",
+    "imageSrc": "skills/cp.png"
+  }
+]
