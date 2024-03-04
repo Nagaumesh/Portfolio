@@ -4,7 +4,7 @@
     "imageSrc": "projects/Portfolio.gif",
     "description": " Developing and deploying a interactive portfolio website ",
     "skills": ["HTML", "CSS", "React"],
-    "demo": "https://www.example.com",
+    "demo": "https://nagaumesh.netlify.app/",
     "source": "https://github.com/Nagaumesh/Portfolio/tree/main/nagaumesh_portfolio"
   },
   {
