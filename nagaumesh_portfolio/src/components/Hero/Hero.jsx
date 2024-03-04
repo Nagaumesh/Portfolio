@@ -9,8 +9,8 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Kamisetty Nagaumesh</h1>
         <p className={styles.description}>
-          I'm a full-stack developer using React and
-          NodeJS, Data scientist . Reach out if you'd like to learn more!
+        "I expertise in frontend development, data science, and Java problem-solving.
+        Currently seeking internship opportunities to further enhance my skills
         </p>
         <a href="mailto:umesh.kamisetty@email.com" className={styles.contactBtn}>
           Contact Me
