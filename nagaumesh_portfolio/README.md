@@ -1,9 +1,22 @@
-# React + Vite
+## My portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This portfolio showcases my expertise in frontend development, utilizing CSS, JSX, and React to create engaging user interfaces and earn valuable experience in the field.
 
-Currently, two official plugins are available:
+## GET SOCIAL WITH ME 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-yyjdfv
+🌟 Seeking Internship Opportunities! 🌟
+
+Hello there 👋,
+I am an aspiring software programming enthusiast on the lookout for an internship opportunity where I can leverage my technical prowess in java programming combined with robust communication abilities.I am open to diverse domains and challenges, I thrive on learning and collaborating. 
+
+Let's connect and explore the possibilities! Feel free to reach out .
+
+Thank you! 🚀
+
+## Gmail: umesh.kamisetty@gmail.com
+
+## Linkedin: https://www.linkedin.com/in/nagaumesh-kamisetty-462337220/
+
+## instagram: https://instagram.com/umesh.kamisetty?igshid=M2RkZGJiMzhjOQ==
+
+
