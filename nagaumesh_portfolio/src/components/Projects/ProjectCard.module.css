@@ -11,6 +11,7 @@
   background-size: 0% 100%;
   background-repeat: no-repeat;                 /* this part of code is used for the hover effect */
   transition: 0.6s;
+  user-select: none;
 }
 
 .container:hover{
