@@ -77,6 +77,8 @@
 }
 
 .historyItem {
+  position: relative;
+  cursor: pointer;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -88,6 +90,25 @@
   background-repeat: no-repeat;                 /* this part of code is used for the hover effect */
   transition: 0.6s;
   background-size: 120% 120%;
+}
+
+.experiences {
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+  top: 0%;
+  left: 100%;
+  transform: translateX(10px);
+  background: #19376d;
+  padding: 10px;
+  min-width: 60px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.historyItem:hover .experiences {
+  opacity: 1;
+  visibility: visible;
 }
 
 .historyItem:hover {

@@ -14,5 +14,13 @@
     "skills": ["Python", "Firebase"],
     "demo": "https://www.youtube.com/watch?v=JE2zZ_mQyf4",
     "source": "https://github.com/Nagaumesh/FaceRecognition"
+  },
+  {
+    "title": "Youtube-clone (API)",
+    "imageSrc": "projects/yt.gif",
+    "description": "which enables users to browse, search, and interact with YouTube-like functionalities seamlessly.",
+    "skills": ["React", "RapidApi","HTML","CSS"],
+    "demo": "https://www.youtube.com/watch?v=JE2zZ_mQyf4",
+    "source": "https://github.com/Nagaumesh/FaceRecognition"
   }
 ]

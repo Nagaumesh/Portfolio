@@ -9,7 +9,11 @@ export const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
-        Portfolio                                    {/* '/' represents go back */}
+      <img
+        src={getImageUrl("nav/name.png")}
+        alt="logo"
+        className={styles.heroImg}
+      />                                 {/* '/' represents go back */}
       </a>
       <div className={styles.menu}>
         <img

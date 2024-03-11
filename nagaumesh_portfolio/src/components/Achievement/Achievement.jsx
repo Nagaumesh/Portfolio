@@ -9,7 +9,7 @@ export const Achievement = () => {
       <h2 className={styles.title}>Achievements</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("Achievements/achievement.webp")}
+          src={getImageUrl("Achievements/achievement.gif")}
           alt="Achievement image"
           className={styles.aboutImage}
         />

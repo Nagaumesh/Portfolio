@@ -11,7 +11,7 @@ export const Experience = () => {
       <h2 className={styles.title}>Experience and Education</h2>
       <div className={styles.content}>
         <div className={styles.skills}>
-          {skills.map((skill, id) => {                                 /* here map generates the id for the skills in json file , this is an example usage of json file*/
+          {skills.map((skill, id) => {
             return (
               <div key={id} className={styles.skill}>
                 <div className={styles.skillImageContainer}>
@@ -23,7 +23,7 @@ export const Experience = () => {
           })}
         </div>
         <ul className={styles.history}>
-          {history.map((historyItem, id) => {           /* map is used as loop to iterate through all the elements of json file */
+          {history.map((historyItem, id) => {
             return (
               <li key={id} className={styles.historyItem}>
                 <img
@@ -33,7 +33,7 @@ export const Experience = () => {
                 <div className={styles.historyItemDetails}>
                   <h3>{`${historyItem.role}, ${historyItem.organisation}`}</h3>
                   <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
-                  <ul>
+                  <ul className={styles.experiences}>
                     {historyItem.experiences.map((experience, id) => {
                       return <li key={id}>{experience}</li>;
                     })}

@@ -2,6 +2,14 @@
 
 This portfolio showcases my expertise in frontend development, utilizing CSS, JSX, and React to create engaging user interfaces and earn valuable experience in the field.
 
+make sure you are in the main file(nagaumesh_portfolio)
+To execute,
+npm run dev
+
+For every update,
+npm run build
+and deploy the updated dist folder
+
 ## GET SOCIAL WITH ME 
 
 🌟 Seeking Internship Opportunities! 🌟
