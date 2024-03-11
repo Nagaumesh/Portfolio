@@ -13,7 +13,7 @@
   },
   {
     "title": "Python",
-    "imageSrc": "skills/python2.jpg"
+    "imageSrc": "skills/python.png"
   },
  
   {
@@ -33,10 +33,14 @@
   
   {
     "title": "C/C++",
-    "imageSrc": "skills/cp.png"
+    "imageSrc": "skills/cpp.png"
   },
   {
     "title": "Java",
-    "imageSrc": "skills/java.jpg"
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Cisco",
+    "imageSrc": "skills/cisco.png"
   }
 ]

@@ -12,9 +12,14 @@ export const Hero = () => {
         I expertise in frontend development, data science, and Java problem-solving.
         Currently seeking internship opportunities to further enhance my skills.
         </p>
-        <a href="mailto:umesh.kamisetty@gmail.com" className={styles.contactBtn}>
-          Mail Me
-        </a>
+        <div className={styles.buttonContainer}> {/* New container for buttons */}
+          <a href="mailto:umesh.kamisetty@gmail.com" className={styles.contactBtn}>
+            Mail Me
+          </a>
+          <a href="" className={styles.contactBtn}>
+            Download resume
+          </a>
+        </div>
       </div>
       <img
         src={getImageUrl("hero/heroImage.png")}
